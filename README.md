@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### My name is Sagy and I'm a Full Stack Developer  
+🌱 I’m currently learning React  
+📫 How to reach me: sagyas12@gmail.com
