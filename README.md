@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👨🏽‍💻 I'm a Full Stack Developer  
- - 🔭 I’m currently working on a new web app  
+ - 🔭 I’m currently working on a quiz maker web app  
  - 🌱 I’m currently learning React  
  - 👯 I’m looking to collaborate on any project  
  - 💬 Ask me about anything  
