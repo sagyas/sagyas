@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## :email: Find me on:  
 <p align="center">
  <a href="https://sagyas.github.io/" target="_blank" rel="noopener noreferrer"> <img src="assets/globe(17).png" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/sagyas" target="_blank" rel="noopener noreferrer"> <img src="assets/linkedin-icon-2.svg" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/sagyas/" target="_blank" rel="noopener noreferrer"> <img src="assets/linkedin-icon-2.svg" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:sagyas12@gmail.com"> <img src="assets/gmail-icon.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>  
 
