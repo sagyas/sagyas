@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/visual-studio-code-1.svg" alt="Visual Studio Code" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/git-icon.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="assets/terminal-1.svg" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/linux-tux.svg" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/microsoft-windows-22.svg" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 </p>
