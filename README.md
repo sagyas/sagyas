@@ -24,29 +24,29 @@ Here are some ideas to get you started:
 
 ## :email: Find me on:  
 <p align="center">
- <a href="https://sagyas.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/sagyas" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:sagyas12@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+ <a href="https://sagyas.github.io/" target="_blank" rel="noopener noreferrer"> <img src="assets/globe(17).png" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/sagyas" target="_blank" rel="noopener noreferrer"> <img src="assets/linkedin-icon-2.svg" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:sagyas12@gmail.com"> <img src="assets/gmail-icon.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>  
 
 <br/>
 
 ## 🧰 Languages and Tools:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" alt=".NET" height="40" style="vertical-align:top; margin:4px">
+  <img src="assets/html5.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+<img src="assets/css-5.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+<img src="assets/logo-javascript.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
+<img src="assets/typescript.svg" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
+<img src="assets/angular-icon-1.svg" alt="Angular" height="40" style="vertical-align:top; margin:4px">
+<img src="assets/react-2.svg" alt="React" height="40" style="vertical-align:top; margin:4px">  
+<img src="assets/c--4.svg" alt="C#" height="40" style="vertical-align:top; margin:4px">
+<img src="assets/dot-net-core-7.svg" alt=".NET Core" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+<img src="assets/visual-studio-code-1.svg" alt="Visual Studio Code" height="40" style="vertical-align:top; margin:4px">
+<img src="assets/git-icon.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
+<img src="assets/terminal-1.svg" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
+<img src="assets/linux-tux.svg" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+<img src="assets/microsoft-windows-22.svg" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <br/>
