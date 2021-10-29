@@ -29,8 +29,6 @@ Here are some ideas to get you started:
  <a href="mailto:sagyas12@gmail.com"> <img src="assets/gmail-icon.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>  
 
-<br/>
-
 ## 🧰 Languages and Tools:
 <p align="center">
   <img src="assets/html5.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
@@ -50,8 +48,6 @@ Here are some ideas to get you started:
 <img src="assets/linux-tux.svg" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/microsoft-windows-22.svg" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 </p>
-
-<br/>
 
 ## :blue_book: Blog posts
  - [How I Solved Google Foobar — Google’s Secret Hiring Challenge](https://sagyas12.medium.com/how-i-solved-google-foobar-googles-secret-hiring-challenge-d1f5bca6360d)
