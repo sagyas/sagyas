@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="assets/logo-javascript.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
- img src="assets/html5.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+<img src="assets/html5.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/css-5.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/typescript.svg" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/angular-icon-1.svg" alt="Angular" height="40" style="vertical-align:top; margin:4px">
