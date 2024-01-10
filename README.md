@@ -37,18 +37,18 @@ Here are some ideas to get you started:
  <img src="icons/TypeScript.svg" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
 <img src="icons/HTML.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="icons/CSS.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
- <img src="icons/Saas.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+ <img src="icons/Sass.svg" alt="Sass" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## :blue_book: Blog posts
  - [How I Solved Google Foobar — Google’s Secret Hiring Challenge](https://sagyas12.medium.com/how-i-solved-google-foobar-googles-secret-hiring-challenge-d1f5bca6360d)
 
 ## :trophy: My Github Stats:
-<div>
+<div align="center>
 <a href="https://github-readme-stats.vercel.app/api?username=sagyas&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=sagyas&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sagyas&theme=tokyonight" />
 </a>
  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sagyas&theme=tokyonight&layout=compact">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagyas&theme=tokyonight&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagyas&theme=tokyonight&layout=compact" />
 </a>
 </div>
