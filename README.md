@@ -23,22 +23,21 @@ Here are some ideas to get you started:
 
 ## :email: Find me on:  
 <p align="center">
- <a href="https://sagyas.github.io/" target="_blank" rel="noopener noreferrer"> <img src="assets/globe(17).png" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/sagyas/" target="_blank" rel="noopener noreferrer"> <img src="assets/linkedin-icon-2.svg" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:sagyas12@gmail.com"> <img src="assets/gmail-icon.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+ <a href="https://www.linkedin.com/in/sagyas/" target="_blank" rel="noopener noreferrer"> <img src="icons/LinkedIn.svg" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:sagyas12@gmail.com"> <img src="icons/Gmail-Dark.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>  
 
 ## 🧰 Languages and Tools:
 <p align="center">
- <img src="assets/Java-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
- <img src="assets/Spring-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
-  <img src="assets/PostgreSQL-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
- <img src="assets/Angular-Dark.svg" alt="Angular" height="40" style="vertical-align:top; margin:4px">
- <img src="assets/JavaScript.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
- <img src="assets/TypeScript.svg" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
-<img src="assets/HTML.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-<img src="assets/CSS.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
- <img src="assets/Saas.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+ <img src="icons/Java-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
+ <img src="icons/Spring-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
+  <img src="icons/PostgreSQL-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
+ <img src="icons/Angular-Dark.svg" alt="Angular" height="40" style="vertical-align:top; margin:4px">
+ <img src="icons/JavaScript.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
+ <img src="icons/TypeScript.svg" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
+<img src="icons/HTML.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+<img src="icons/CSS.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+ <img src="icons/Saas.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## :blue_book: Blog posts
