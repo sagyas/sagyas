@@ -44,7 +44,7 @@ Here are some ideas to get you started:
  - [How I Solved Google Foobar — Google’s Secret Hiring Challenge](https://sagyas12.medium.com/how-i-solved-google-foobar-googles-secret-hiring-challenge-d1f5bca6360d)
 
 ## :trophy: My Github Stats:
-<div align="center>
+<div>
 <a href="https://github-readme-stats.vercel.app/api?username=sagyas&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api?username=sagyas&theme=tokyonight" />
 </a>
