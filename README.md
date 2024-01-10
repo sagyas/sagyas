@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  <a href="mailto:sagyas12@gmail.com"> <img src="icons/Gmail-Dark.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>  
 
-## 🧰 Languages and Tools:
+## 🧰 My Tech Stack:
 <p align="center">
  <img src="icons/Java-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
  <img src="icons/Spring-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
