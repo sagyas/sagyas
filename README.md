@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ## 👨‍💻 I'm a Full Stack Developer  
  - 🔭 I’m currently working on a quiz maker web app  
  - 🌱 I’m currently learning React  
- - 👯 I’m looking to collaborate on any project  
  - 💬 Ask me about anything  
  - ⚡ Fun fact: I love playing 🏀, and playing 🎸  
  - 📫 How to reach me: sagyas12@gmail.com  
