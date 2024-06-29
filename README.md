@@ -45,9 +45,6 @@ Here are some ideas to get you started:
 
 ## :trophy: My Github Stats:
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=sagyas&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagyas&theme=tokyonight" />
-</a>
  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sagyas&theme=tokyonight&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagyas&theme=tokyonight&layout=compact" />
 </a>
