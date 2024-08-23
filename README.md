@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 
 ## 🧰 My Tech Stack:
 <p align="center">
+  <a href="https://skillicons.dev">
+    [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+  </a>
+</p>
+<p align="center">
  <img src="icons/Java-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
  <img src="icons/Spring-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
   <img src="icons/PostgreSQL-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
