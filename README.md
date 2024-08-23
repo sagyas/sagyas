@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  - 📫 How to reach me: sagyas12@gmail.com  
 
 ## :email: Find me on:  
-<p align="center">
+<p align="left">
  <a href="https://www.linkedin.com/in/sagyas/" target="_blank" rel="noopener noreferrer"> <img src="icons/LinkedIn.svg" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:sagyas12@gmail.com"> <img src="icons/Gmail-Dark.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>  
