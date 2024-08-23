@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 
 ## 🧰 My Tech Stack:
 <p align="center">
+ <img src="icons/React-Dark.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
+ <img src="icons/TypeScript.svg" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
+ <img src="icons/HTML.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+ <img src="icons/CSS.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+</p>
+<p align="center">
  <img src="icons/Java-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
  <img src="icons/Spring-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
   <img src="icons/PostgreSQL-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
- <img src="icons/React-Dark.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
- <img src="icons/JavaScript.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
- <img src="icons/TypeScript.svg" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
-<img src="icons/HTML.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-<img src="icons/CSS.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
- <img src="icons/Sass.svg" alt="Sass" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## :blue_book: Blog posts
