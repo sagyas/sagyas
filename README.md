@@ -30,7 +30,7 @@ Here are some ideas to get you started:
  <img src="icons/Java-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
  <img src="icons/Spring-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
   <img src="icons/PostgreSQL-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
- <img src="icons/Angular-Dark.svg" alt="Angular" height="40" style="vertical-align:top; margin:4px">
+ <img src="icons/React-Dark.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
  <img src="icons/JavaScript.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
  <img src="icons/TypeScript.svg" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
 <img src="icons/HTML.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
