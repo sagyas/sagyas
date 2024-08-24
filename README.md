@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <p align="center">
  <img src="icons/Java-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
  <img src="icons/Spring-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
+ <img src="icons/Hibernate-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
   <img src="icons/PostgreSQL-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
     <img src="icons/GCP-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
 </p>
